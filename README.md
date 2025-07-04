@@ -23,7 +23,8 @@ Skills: **Skills: C / C++ / Python / MySQL / JavaScript**
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafath-hussain-tushar)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafath-hussain-tushar&cache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafath-hussain-tushar&show_icons=true)  
 
