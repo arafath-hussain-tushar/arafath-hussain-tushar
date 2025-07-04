@@ -4,7 +4,7 @@
 
 I am currently pursuing a degree in CSE with a strong interest in programming. I'm always eager to learn new things and apply what I've learned.
 
-Skills: **Skills: C / C++ / Python / MySQL / JavaScript**
+**Skills: C / C++ / Python / MySQL / JavaScript**
 
 - 🌱 I’m currently learning Django, Java 
 - 📫 How to reach me: ahtushar4040@yahoo.com 
